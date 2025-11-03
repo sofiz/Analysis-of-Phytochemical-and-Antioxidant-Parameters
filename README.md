@@ -13,7 +13,5 @@
 
 
 
-À LA LOUPE] Le pouvoir antioxydant des extraits naturels - YouTube
 
-YouTube
-SkinCeuticals · 2:10
+[![Regarder la vidéo](https://img.youtube.com/vi/abcd1234/0.jpg)](https://www.youtube.com/watch?v=abcd1234)
