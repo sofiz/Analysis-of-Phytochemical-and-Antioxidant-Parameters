@@ -15,7 +15,4 @@
 
 
 
-
-https://www.youtube.com/watch?v=d4RCykbGEKw
- http://bit.ly/1aYLMFq
-ANTIOXYDANTS ET SANTÉ : explications et preuves scientifiques en 3 MINUTES
+ https://quoidansmonassiette.fr/
