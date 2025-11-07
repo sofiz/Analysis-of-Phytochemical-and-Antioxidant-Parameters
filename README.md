@@ -13,9 +13,7 @@
 
 
 
-[
-](https://www.joasdjournal.org/index.php/joasd/article/view/26)
- https://quoidansmonassiette.fr/
+: https://doi.org/10.56027/JOASD.032021 https://quoidansmonassiette.fr/
  https://quoidansmonassiette.fr/
 
 
