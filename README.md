@@ -17,7 +17,5 @@
 
  https://quoidansmonassiette.fr/
  https://quoidansmonassiette.fr/
-https://www.youtube.com/watch?v=KC8NLROxzPU
-https://www.shutterstock.com/fr/vid eo/clip-3754013-free-radical-reacts-other-molecules-taking-their
-vidio src="://www.youtube.com/shorts/XJbrG3TBeh8?feature=share
- 
+regarde la video [
+](https://youtu.be/OpgmGI49Uxg?t=227) 
