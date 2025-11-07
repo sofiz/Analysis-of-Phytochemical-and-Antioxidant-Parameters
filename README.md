@@ -19,35 +19,6 @@
  https://quoidansmonassiette.fr/
 
 
-Djihane Zekri
-5:10 PM (0 minutes ago)
-to me
-
-
-</html>
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <title>Vidéo sur le Caroubier</title>
-</head>
-<body style="text-align:center; background-color:#f9f9f9; font-family:sans-serif;">
-  <h1>🌳 Le Caroubier (Ceratonia siliqua)</h1>
-  <p>Découvrez les vertus et les propriétés du caroubier dans cette vidéo :</p>
-
-  <!-- Vidéo YouTube intégrée -->
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/zHV0JfhPQhU"
-    title="Le Caroubier - Vertus et histoire"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-
-  <p style="margin-top:20px;">
-    Vidéo source : <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU" target="_blank">YouTube - Le Caroubier</a>
-  </p>
-</body>
-</html>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -69,3 +40,4 @@ to me
   <p style="margin-top:10px;">
     ▶️ Cliquez sur l’image pour regarder la vidéo sur YouTube
   </p>
+ 
