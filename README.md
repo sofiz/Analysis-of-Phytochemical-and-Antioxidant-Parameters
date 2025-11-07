@@ -17,5 +17,4 @@
 
  https://quoidansmonassiette.fr/
  https://quoidansmonassiette.fr/
-regarde la video [
-](https://youtu.be/OpgmGI49Uxg?t=227) 
+[regarde la video](https://youtu.be/OpgmGI49Uxg?t=227) 
