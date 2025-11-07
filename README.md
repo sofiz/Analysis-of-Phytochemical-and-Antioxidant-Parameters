@@ -19,3 +19,4 @@
  https://quoidansmonassiette.fr/
 https://www.youtube.com/watch?v=KC8NLROxzPU
 https://www.shutterstock.com/fr/video/clip-3754013-free-radical-reacts-other-molecules-taking-their
+https://www.youtube.com/shorts/XJbrG3TBeh8?feature=share
