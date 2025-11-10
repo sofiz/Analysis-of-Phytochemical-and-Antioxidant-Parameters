@@ -39,3 +39,8 @@
     ▶️ Cliquez sur l’image pour regarder la vidéo sur YouTube
   </p>
  
+# 🌳 Vidéo sur le Caroubier
+
+Découvrez cette courte vidéo éducative sur le caroubier — un arbre aux multiples vertus médicinales et alimentaires.
+
+🎥 [👉 Regarder la vidéo directement ici](https://raw.githubusercontent.com/tonpseudo/tonrepo/main/caroubier.mp4)
