@@ -40,30 +40,11 @@
     ▶️ Cliquez sur l’image pour regarder la vidéo 
   </p>
 
-<!DOCTYPE html>
-<html lang="fr">
-<head>html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <title>Vidéo sur le Caroubier</title>
-</head>
-<body style="text-align:center; background-color:#f5f5f5; font-family:Arial, sans-serif;">
-  <h2>🌳 Le Caroubier (Ceratonia siliqua)</h2>
-  <p>Découvrez les vertus et les bienfaits du caroubier :</p>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vidéo sur le Caroube</title>
-    <style>
-         <h2>Découverte du Caroube 🌿</h2>
 
-    <!-- Intégration de la vidéo sur git hub -->
-    <iframe 
-        src="https://www.youtube.com/watch?v=zHV0JfhPQhU"
-        title="Vidéo sur le Caroube"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-    </iframe>
 
-    <p>Découvrez les bienfaits et la culture du caroubier.</p>
-</body>
-</html>"https://www.youtube.com/watch?v=zHV0JfhPQhU"
+https://github.com/user-attachments/assets/44a1a279-5273-4918-bf15-7f300c4f506b
+
+
+
+Uploading Le caroube, tu connais   Ce fruit est non seulement riche en fibres mais pour moi, c’est aussi un vrai coupe-faim naturel ! Je t’explique pourquoi il mérite sa place dans ta cuisine..mp4…
+
