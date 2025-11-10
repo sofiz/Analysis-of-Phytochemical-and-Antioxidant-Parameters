@@ -42,36 +42,23 @@
 
 <!DOCTYPE html>
 <html lang="fr">
+<head>html lang="fr">
 <head>
+  <meta charset="UTF-8">
+  <title>Vidéo sur le Caroubier</title>
+</head>
+<body style="text-align:center; background-color:#f5f5f5; font-family:Arial, sans-serif;">
+  <h2>🌳 Le Caroubier (Ceratonia siliqua)</h2>
+  <p>Découvrez les vertus et les bienfaits du caroubier :</p>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vidéo sur le Caroube</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9f5ef;
-            color: #3e2f1c;
-            text-align: center;
-            padding: 40px;
-        }
-        iframe {
-            border: 3px solid #8b5a2b;
-            border-radius: 12px;
-            width: 80%;
-            max-width: 720px;
-            height: 405px;
-        }
-        h2 {
-            color: #5a3b1a;
-        }
-    </style>
-</head>
-<body>
-    <h2>Découverte du Caroube 🌿</h2>
+         <h2>Découverte du Caroube 🌿</h2>
 
-    <!-- Intégration de la vidéo YouTube -->
+    <!-- Intégration de la vidéo sur git hub -->
     <iframe 
-        src="https://www.youtube.com/embed/VIDEOCODE"
+        src="https://www.youtube.com/watch?v=zHV0JfhPQhU"
         title="Vidéo sur le Caroube"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
@@ -79,4 +66,4 @@
 
     <p>Découvrez les bienfaits et la culture du caroubier.</p>
 </body>
-</html>
+</html>"https://www.youtube.com/watch?v=zHV0JfhPQhU"
