@@ -27,8 +27,8 @@
   <p>Découvrez les vertus et les bienfaits du caroubier :</p>
 
   <!-- Miniature cliquable (image du vidéo) -->
-  <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU" target="_blank">
-    <img src="https://video.youtube.com/vi/zHV0JfhPQhU/hqdefault.jpg"
+  <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU"watch  target="_blank">
+    <img src="https://img.youtube.com/vi/zHV0JfhPQhU/hqdefault.jpg"watch
          alt="Vidéo sur le caroubier"
          width="560" height="315"
          style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.2);">
@@ -55,7 +55,7 @@
   </a>
 
   <p style="margin-top:10px;">
-    ▶️ Cliquez sur l’image pour regarder la vidéo sur git hub
+    ▶️ Cliquez sur l’image pour regarder la vidéo sur youtube 
   </p>
 ## Vidéo sur les Antioxidants
 
