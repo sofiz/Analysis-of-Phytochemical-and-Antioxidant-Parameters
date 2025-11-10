@@ -50,9 +50,4 @@ https://github.com/user-attachments/assets/2a0a46ed-2424-4c53-8c15-2d5b232d7029
 
 
 
-https://github.com/user-attachments/assets/44a1a279-5273-4918-bf15-7f300c4f506b
-
-
-
-Uploading Le caroube, tu connais   Ce fruit est non seulement riche en fibres mais pour moi, c’est aussi un vrai coupe-faim naturel ! Je t’explique pourquoi il mérite sa place dans ta cuisine..mp4…
 
