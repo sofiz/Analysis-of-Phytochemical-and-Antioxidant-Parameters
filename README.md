@@ -11,7 +11,6 @@
 | Graine              | 42.8                          | 15.7                  | 89                |
 | Gousse              | 25.3                          | 8.1                   | 78                |
 
-![Points obtenus](https://github.com/user-attachments/assets/d5b5a222-1363-49f7-9eb5-d3fdbdf28e7e)
 
  https://doi.org/10.56027/JOASD.032021 https://quoidansmonassiette.fr/
  https://quoidansmonassiette.fr/
@@ -40,8 +39,44 @@
   <p style="margin-top:10px;">
     ▶️ Cliquez sur l’image pour regarder la vidéo 
   </p>
-## Vidéo sur les Antioxidants
 
-[![Lire la vidéo](https://via.placeholder.com/640x360.png?text=Vid%C3%A9o+Antioxidants)](https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4)
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vidéo sur le Caroube</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f5ef;
+            color: #3e2f1c;
+            text-align: center;
+            padding: 40px;
+        }
+        iframe {
+            border: 3px solid #8b5a2b;
+            border-radius: 12px;
+            width: 80%;
+            max-width: 720px;
+            height: 405px;
+        }
+        h2 {
+            color: #5a3b1a;
+        }
+    </style>
+</head>
+<body>
+    <h2>Découverte du Caroube 🌿</h2>
 
+    <!-- Intégration de la vidéo YouTube -->
+    <iframe 
+        src="https://www.youtube.com/embed/VIDEOCODE"
+        title="Vidéo sur le Caroube"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+    </iframe>
 
+    <p>Découvrez les bienfaits et la culture du caroubier.</p>
+</body>
+</html>
