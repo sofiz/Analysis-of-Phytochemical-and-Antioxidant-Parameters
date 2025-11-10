@@ -38,50 +38,72 @@
   <p style="margin-top:10px;">
     ▶️ Cliquez sur l’image pour regarder la vidéo sur YouTube
   </p>
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
   <title>Vidéo sur le Caroubier - Zekri Djihane</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: "Segoe UI", Arial, sans-serif;
+      background-color: #f7fafc;
+      color: #333;
       text-align: center;
-      background-color: #f7f9fc;
-      color: #222;
-      margin: 50px;
+      padding: 40px;
     }
+
     h1 {
       color: #2e8b57;
+      font-size: 28px;
       margin-bottom: 10px;
     }
+
     p {
       font-size: 18px;
+      margin-bottom: 20px;
     }
-    .thumbnail {
-      width: 560px;
-      max-width: 100%;
+
+    iframe {
+      width: 80%;
+      max-width: 700px;
+      height: 400px;
+      border: none;
       border-radius: 12px;
-      cursor: pointer;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-      transition: transform 0.3s;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
     }
-    .thumbnail:hover {
-      transform: scale(1.03);
+
+    footer {
+      margin-top: 20px;
+      font-size: 15px;
+      color: #555;
+    }
+
+    footer a {
+      color: #2e8b57;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
+
 <body>
   <h1>🌳 Le Caroubier (Ceratonia siliqua)</h1>
   <p><strong>Vertus médicinales, histoire et particularités</strong></p>
 
-  <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU" target="_blank">
-    <img class="thumbnail" src="https://img.youtube.com/vi/zHV0JfhPQhU/hqdefault.jpg" alt="Vidéo sur le Caroubier">
-  </a>
+  <!-- Vidéo intégrée directement -->
+  <iframe 
+    src="https://www.youtube.com/embed/zHV0JfhPQhU" 
+    title="Vidéo sur le Caroubier"
+    allowfullscreen>
+  </iframe>
 
-  <p style="margin-top:20px;">
+  <footer>
     👩‍🔬 Réalisé par <strong>Zekri Djihane</strong><br>
     🌍 Source : <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU" target="_blank">YouTube</a>
-  </p>
+  </footer>
 </body>
 </html>
