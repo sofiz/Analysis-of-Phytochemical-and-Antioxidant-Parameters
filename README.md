@@ -84,3 +84,59 @@
     img:hover {
       transform: scale(1.05);
     }
+
+Djihane Zekri
+7:34 PM (0 minutes ago)
+to me
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vidéo sur le Caroubier</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f5f5f5;
+      padding: 40px;
+    }
+    .container {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      max-width: 700px;
+      margin: auto;
+    }
+    img {
+      width: 100%;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    img:hover {
+      transform: scale(1.03);
+    }
+    video {
+      width: 100%;
+      border-radius: 10px;
+      margin-top: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>🌿 Vidéo sur le Caroubier (Ceratonia siliqua)</h2>
+    <a href="#video">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Carob_tree.jpg" alt="Caroubier">
+    </a>
+    
+    <video id="video" controls>
+      <source src="video.mp4" type="video/mp4">
+      Votre navigateur ne supporte pas la lecture vidéo.
+    </video>
+  </div>
+</body>
+</html>
