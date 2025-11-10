@@ -19,6 +19,40 @@
 <index.html<!DOCTYPE html>
 <html lang="fr">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vidéo Caroube</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f5ef;
+            color: #3e2f1c;
+            text-align: center;
+            padding: 50px;
+        }
+        video {
+            border: 3px solid #8b5a2b;
+            border-radius: 10px;
+        }
+        h2 {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Découverte du Caroube</h2>
+
+    <!-- Vidéo intégrée -->
+    <video width="640" height="360" controls>
+        <source src="caroube.mp4" type="video/mp4">
+        Votre navigateur ne supporte pas la lecture de vidéos.
+    </video>
+
+    <p>Profitez de cette vidéo pour découvrir les bienfaits et la culture du caroube.</p>
+</body>
+</html>!DOCTYPE html>
+<html lang="fr">
+<head>
   <meta charset="UTF-8">
   <title>Vidéo sur le Caroubier</title>
 </head>
