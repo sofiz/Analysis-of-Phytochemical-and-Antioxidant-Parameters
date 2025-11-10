@@ -20,7 +20,7 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Vidéo sur le Caroubier</title> content="width=device-width, initial-scale=1.0">
     <title>Vidéo Caroube</title>
     <style>
         body {
@@ -44,10 +44,17 @@
 
     <!-- Vidéo intégrée -->
     <video width="640" height="360" controls>
-        <source src="caroube.mp4" type="video/mp4">
-        Votre navigateur ne supporte pas la lecture de vidéos.
-    </video>
+        <source src="caroube.youtube" type="video/youtube">
+      
+    </video> <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU"  target="_blank">
+    <img src="https://img.youtube.com/vi/zHV0JfhPQhU/hqdefault.jpg"
+         alt="Vidéo sur le caroubier"
+         width="560" height="315"
+         style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.2);">
+  </a>
 
+  <p style="margin-top:10px;">
+    ▶️ Cliquez  pour regarder la vidéo 
     <p>Profitez de cette vidéo pour découvrir les bienfaits et la culture du caroube.</p>
 </body>
 </html>!DOCTYPE html>
