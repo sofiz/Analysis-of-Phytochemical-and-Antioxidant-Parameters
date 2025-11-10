@@ -55,10 +55,10 @@
   </a>
 
   <p style="margin-top:10px;">
-    ▶️ Cliquez sur l’image pour regarder la vidéo sur YouTube
+    ▶️ Cliquez sur l’image pour regarder la vidéo sur git hub
   </p>
 ## Vidéo sur les Antioxidants
 
 [![Lire la vidéo](https://via.placeholder.com/640x360.png?text=Vid%C3%A9o+Antioxidants)](https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4)
 
-Cette vidéo explique les antioxydants et leur rôle pour la santé.
+
