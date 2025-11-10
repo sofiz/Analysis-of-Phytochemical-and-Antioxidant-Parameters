@@ -55,7 +55,7 @@
   </a>
 
   <p style="margin-top:10px;">
-    ▶️ Cliquez sur l’image pour regarder la vidéo sur youtube 
+    ▶️ Cliquez sur l’image pour regarder la vidéo 
   </p>
 ## Vidéo sur les Antioxidants
 
